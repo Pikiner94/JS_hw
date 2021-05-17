@@ -62,5 +62,4 @@ mustang.accelerate(120);
 mustang.decelerate(80);
 
 console.log(Car.getSpecs(mustang));
-
 console.log(mustang);
